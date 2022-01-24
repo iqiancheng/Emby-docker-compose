@@ -2,6 +2,14 @@
 Emby Server 一站式解决方案（包括Douban、JavScraper插件）
 
 
+
+## Preview
+
+![embyweb](.images/embyweb.jpg)
+
+
+
+
 # Usage
 ```sh
 $ docker-compose up -d
